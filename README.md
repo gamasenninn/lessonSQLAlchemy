@@ -105,5 +105,6 @@ print("\n----Jsonデータ---\n")
 for client in clients:
     print(client.to_dict())
 
+
 ```
 
